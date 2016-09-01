@@ -3,4 +3,5 @@
   */
 object HelloScala extends App{
 println("Hello, World! Hello, Scala")
+  println("HAI NEW STUFF")
 }
